@@ -1,0 +1,60 @@
+{
+  "name": "⌐◧-◧.app",
+  "version": "0.0.1",
+  "author": "ripe0x",
+  "description": "⌐◧-◧",
+  "license": "CC0-1.0",
+  "main": "noggles.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ripe0x/noggles.app"
+  },
+  "build": {
+    "productName": "⌐◧-◧",
+    "appId": "com.noggles.app",
+    "compression": "maximum",
+    "copyright": "CC0",
+    "mac": {
+      "icon": "build/icon.png",
+      "category": "public.app-category.utilities"
+    },
+    "win": {
+      "icon": "build/icon.png"
+    },
+    "files": [
+      "build/**/*",
+      "noggles.js"
+    ],
+    "directories": {
+      "buildResources": "build"
+    },
+    "extraResources": [
+      "assets/**"
+    ]
+  },
+  "scripts": {
+    "build": "rimraf lib/ && tsc",
+    "deploy": "yarn build && standard-version",
+    "docs": "typedoc",
+    "lint": "tsc --noEmit && eslint . --ext js,ts",
+    "test": "jest",
+    "app:dir": "electron-builder --dir",
+    "app:dist": "electron-builder"
+  },
+  "dependencies": {
+    "electron-squirrel-startup": "^1.0.0",
+    "menubar": "^9.2.0"
+  },
+  "devDependencies": {
+    "@amaurym/config": "^1.3.5",
+    "electron": "17.0.0",
+    "electron-builder": "^23.1.0",
+    "standard-version": "^8.0.0"
+  },
+  "peerDependencies": {
+    "electron": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0 || ^17.0.0"
+  }
+}
