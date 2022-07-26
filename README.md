@@ -4,7 +4,7 @@
 ### Installation & usage
 **Mac** \
 _Note: ⌐◧-◧.app is Mac-only during beta._
-1. [Download ⌐◧-◧.app](dist/⌐◧-◧.app.zip)
+1. [Download ⌐◧-◧.app](dist/mac/⌐◧-◧.app.zip)
 2. A zip file will be downloaded to your `Downloads` folder
 3. Open the zip file and double-click ⌐◧-◧.app to open it
 4. Move ⌐◧-◧.app to your applications folder
