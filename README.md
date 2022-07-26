@@ -5,11 +5,8 @@
 **Mac** \
 _Note: ⌐◧-◧.app is Mac-only during beta._
 1. [Download `⌐◧-◧.app`](https://github.com/ripe0x/noggles.app/raw/main/dist/mac/%E2%8C%90%E2%97%A7-%E2%97%A7.app.zip)
-2. A zip file will be downloaded to your `Downloads` folder
-3. Open the zip file and double-click `⌐◧-◧.app` to open it
-4. Move `⌐◧-◧.app` to your applications folder
-5. Once the app is running, click the `⌐◧-◧` icon in your menu bar to choose your favorite style of noggles to use
-6. Proliferate `⌐◧-◧`
+2. Open the zip file, move `⌐◧-◧.app` to your applications folder, and open the app
+3. Proliferate `⌐◧-◧`
 
 ### Feedback welcome
 If you have any issues using the app or want to share feedback, please [open a Github issue](https://github.com/ripe0x/noggles.app/issues).
