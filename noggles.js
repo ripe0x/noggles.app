@@ -15,6 +15,8 @@ const nogglesList = [
 	'⌐♥-♥',
 	'⌐🄶-🄼',
 	'⌐ⓝ°ⓒ',
+	'separator',
+	'⌐×-×'
 ];
 
 app.on('ready', () => {
