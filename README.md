@@ -2,8 +2,11 @@
 ### Quickly copy unicode noggles to your clipboard
 ![Image](assets/copy-paste-noggles.gif)
 ### Installation
-[Download and install the latest release here](dist/⌐◧-◧-0.0.1-arm64-mac.zip). \
+**Mac** \
 _Note: ⌐◧-◧.app is Mac-only during beta._
+- [Intel](dist/⌐◧-◧-0.0.1.dmg)
+- [M1](dist/⌐◧-◧-0.0.1-arm64.dmg)
+- or, clone this repo and run `yarn app:dist`
 
 ---
 
