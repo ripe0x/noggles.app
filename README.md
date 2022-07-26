@@ -9,7 +9,7 @@ _Note: ⌐◧-◧.app is Mac-only during beta._
 - or, clone this repo and run `yarn app:dist`
 
 ### Feedback welcome
-If you have any issues using the app or want to share feedback, please [open a Github issue](https://github.com/ripe0x/noggles.app/issues) in this repo.
+If you have any issues using the app or want to share feedback, please [open a Github issue](https://github.com/ripe0x/noggles.app/issues).
 
 ---
 
