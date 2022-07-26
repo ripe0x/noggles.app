@@ -4,12 +4,12 @@
 ### Installation & usage
 **Mac** \
 _Note: ⌐◧-◧.app is Mac-only during beta._
-1. [Download ⌐◧-◧.app](dist/⌐◧-◧.app.zip) _(or clone this repo and run `yarn app:dist` to build the app locally)_
-2. A zip file will be downloaded to your Downloads folder 
+1. [Download ⌐◧-◧.app](dist/⌐◧-◧.app.zip)
+2. A zip file will be downloaded to your `Downloads` folder
 3. Open the zip file and double-click ⌐◧-◧.app to open it
 4. Move ⌐◧-◧.app to your applications folder
 5. Once the app is running, click the ⌐◧-◧ icon in your menu bar to choose your favorite style of noggles to use
-6. ⌐♥-♥
+6. Proliferate ⌐◧-◧
 
 ### Feedback welcome
 If you have any issues using the app or want to share feedback, please [open a Github issue](https://github.com/ripe0x/noggles.app/issues).
