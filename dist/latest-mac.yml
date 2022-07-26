@@ -1,11 +1,11 @@
 version: 0.0.1
 files:
   - url: noggles.app-0.0.1.dmg
-    sha512: XX1iuD6lr3pLZZsSVV1IEHo28bI5ICeOZh+yqhykFBeLqh55+9MBpAwPAkMqtLZF8HVr/JbDIN3DN7a0QtyaFw==
-    size: 77458874
+    sha512: 4cOCXuuskm4Vl0kBYVSmnG033hCXs4Y0LKc+pIkDF6x6kPb7pofkeVYmMr3dnaNUOJe4VyHN5po8S6R0+R7xrg==
+    size: 77334526
   - url: noggles.app-0.0.1.dmg
-    sha512: EbRoAWZlIcI9diD2YFswxNCvYeZCZJ0tVUMctYJHDL1AG8HgTecRoKB0zzJJc1Ww+zA6ycdDZSD4IceF72ujQQ==
-    size: 74448570
+    sha512: R+53ns6KcBB7r37wpRAdFu/ZnGggGxVQCde4wLfrF0huCglRHOX3CqlA0qsEjC5cdeKG6Quw2ZTs++cmI/GrWw==
+    size: 74332450
 path: noggles.app-0.0.1.dmg
-sha512: XX1iuD6lr3pLZZsSVV1IEHo28bI5ICeOZh+yqhykFBeLqh55+9MBpAwPAkMqtLZF8HVr/JbDIN3DN7a0QtyaFw==
-releaseDate: '2022-07-26T03:56:44.388Z'
+sha512: 4cOCXuuskm4Vl0kBYVSmnG033hCXs4Y0LKc+pIkDF6x6kPb7pofkeVYmMr3dnaNUOJe4VyHN5po8S6R0+R7xrg==
+releaseDate: '2022-07-26T04:05:24.859Z'
