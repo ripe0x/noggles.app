@@ -4,5 +4,6 @@ coverage
 lib
 *.app
 *.log
+.env
 
 out/
