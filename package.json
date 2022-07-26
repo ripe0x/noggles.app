@@ -19,7 +19,8 @@
     "copyright": "CC0",
     "mac": {
       "icon": "build/icon.png",
-      "category": "public.app-category.utilities"
+      "category": "public.app-category.utilities",
+      "darkModeSupport": true
     },
     "win": {
       "icon": "build/icon.png"

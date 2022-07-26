@@ -1,0 +1,11 @@
+version: 0.0.1
+files:
+  - url: noggles.app-0.0.1-arm64-mac.zip
+    sha512: TJmpYx8WeY5VVMGls4MUWPHYjUVO/0s6P8stsNXatWFDsp6o3Gu2kf+ttdtt4bNdzAKuCpz8lyz3lSei71IGDQ==
+    size: 81084844
+  - url: noggles.app-0.0.1.dmg
+    sha512: R8ZPlS2arjXRe9AqNqUdkt8g6weeo+q3oOzsC7GTD2p2GACgtzGWGchgpXrJvE3/fEuTa7EwBAt3tJXmUV2MJQ==
+    size: 77418022
+path: noggles.app-0.0.1-arm64-mac.zip
+sha512: TJmpYx8WeY5VVMGls4MUWPHYjUVO/0s6P8stsNXatWFDsp6o3Gu2kf+ttdtt4bNdzAKuCpz8lyz3lSei71IGDQ==
+releaseDate: '2022-07-26T00:18:11.656Z'

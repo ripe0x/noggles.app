@@ -1,0 +1,20 @@
+directories:
+  output: dist
+  buildResources: build
+productName: ⌐◧-◧
+appId: com.noggles.app
+compression: maximum
+copyright: CC0
+mac:
+  icon: build/icon.png
+  category: public.app-category.utilities
+win:
+  icon: build/icon.png
+files:
+  - filter:
+      - build/**/*
+      - noggles.js
+extraResources:
+  - filter:
+      - assets/**
+electronVersion: 17.0.0
