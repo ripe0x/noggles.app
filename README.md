@@ -4,7 +4,7 @@
 ### Installation & usage
 **Mac** \
 _Note: ⌐◨-◨.app is Mac-only._
-1. [Download `⌐◨-◨.app`](https://github.com/ripe0x/noggles.app/releases/download/%E2%8C%90%E2%97%A7-%E2%97%A7%400.0.1/noggles.app.zip)
+1. [Download `⌐◨-◨.app`](https://github.com/ripe0x/noggles.app/releases/download/%E2%8C%90%E2%97%A7-%E2%97%A7%400.0.2/noggles.app.zip)
 2. Open the zip file, move `⌐◨-◨.app` to your applications folder, and open the app
 3. Proliferate `⌐◨-◨`
 
